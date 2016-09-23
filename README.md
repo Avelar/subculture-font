@@ -3,6 +3,7 @@
 A cursive font
 
 #### Uma fonte inspirada em movimentos urbanos da dedada de 1970
+![subculture font](/font/subcultuer_font_sample.png)
 
 ## Contents
 + About
