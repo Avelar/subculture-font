@@ -4,7 +4,7 @@ A cursive font
 
 #### Uma fonte inspirada em movimentos urbanos da dedada de 1970
 
-<img src=“/font/subcultuer_font_sample.png” style="text-align:center;margin:0 auto;” alt=“subculture font by Avelar” />
+![subculture font](/font/subcultuer_font_sample.png)
 
 ## Contents
 + About
