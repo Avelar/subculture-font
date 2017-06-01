@@ -22,13 +22,13 @@ atualizações pode ser acompanhado no changelog.md
 + Category: Script
 + Powerline Support: Not yet
 + Glyph Number: 104
-+ Included Styles: Regular
++ Included Style: Regular
 
 
 #### Contributing
 1. Fork it
-2. Create your feature branch (git checkout -b my-new-feature)
+2. Create your feature branch (git checkout -b new-feature)
 3. Add your changes (git add *)
-4. Commit your changes (git commit -m ‘Add some feature’)
-5. Push to the branch (git push origin my-new-feature)
+4. Commit your changes (git commit -m 'Add new feature')
+5. Push to the branch (git push origin new-feature)
 6. Create new Pull Request
