@@ -1,6 +1,7 @@
 # Subculture
 
 A cursive font family
+![subcultureFontFamily](https://img.shields.io/badge/Version-v1.0.0-blue.svg?style=flat)
 
 #### Uma família tipográfica inspirada em movimentos urbanos da dedada de 1970
 
@@ -14,8 +15,7 @@ A cursive font family
 + License
 
 #### About
-Subculture é uma família tipográfica conceitual desenhada para uma campanha de moda inspirada em movimentos de subcultura urbana dos anos de 1970. Durante o processo de estudo e criativo assumiu-se adicionar um conjunto de glifos para atender a necessidade da campanha que você pode conferir na imagem acima. A Subculture é uma fonte Cursiva com Kern e Tracking variáveils na versão 1.0.0. Um conjunto maior de 
-atualizações pode ser acompanhado no changelog.md
+Subculture é uma família tipográfica conceitual desenhada para uma campanha de moda inspirada em movimentos de subcultura urbana dos anos de 1970. Durante o processo de estudo e criativo assumiu-se adicionar um conjunto de glifos para atender a necessidade da campanha que você pode conferir na imagem acima. Um conjunto maior de atualizações pode ser acompanhado no changelog.md
 
 #### Data
 + Font Name: Subculture
