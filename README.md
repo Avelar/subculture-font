@@ -1,8 +1,8 @@
 # Subculture
 
-A cursive font
+A cursive font family
 
-#### Uma fonte inspirada em movimentos urbanos da dedada de 1970
+#### Uma font family inspirada em movimentos urbanos da dedada de 1970
 
 ![subculture font](/font/subcultuer_font_sample.png)
 
@@ -14,9 +14,7 @@ A cursive font
 + License
 
 #### About
-Subculture é uma fonte conceitual desenhada para uma campanha de moda inspirada em movimentos de subcultura urbana dos anos de 1970. 
-Durante o processo de estudo e criativo assumiu-se adicionar um conjunto de glifos para atender a necessidade da campanha que você 
-pode conferir na imagem acima. A Subculture é uma fonte Cursiva com Kern e Tracking variáveils na versão 1.0.0. Um conjunto maior de 
+Subculture é uma família tipográfica conceitual desenhada para uma campanha de moda inspirada em movimentos de subcultura urbana dos anos de 1970. Durante o processo de estudo e criativo assumiu-se adicionar um conjunto de glifos para atender a necessidade da campanha que você pode conferir na imagem acima. A Subculture é uma fonte Cursiva com Kern e Tracking variáveils na versão 1.0.0. Um conjunto maior de 
 atualizações pode ser acompanhado no changelog.md
 
 #### Data
