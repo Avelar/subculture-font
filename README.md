@@ -2,7 +2,7 @@
 
 A cursive font family
 
-#### Uma font family inspirada em movimentos urbanos da dedada de 1970
+#### Uma família tipográfica inspirada em movimentos urbanos da dedada de 1970
 
 ![subculture font](/font/subcultuer_font_sample.png)
 
