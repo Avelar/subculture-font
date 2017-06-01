@@ -1,6 +1,6 @@
 # Subculture
 
-Subculture: a cursive font family  
+Acursive font family  
 ![subcultureFontFamily](https://img.shields.io/badge/Version-v1.0.0-blue.svg?style=flat)
 
 #### Uma família tipográfica inspirada em movimentos urbanos da dedada de 1970
